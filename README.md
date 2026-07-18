@@ -1,4 +1,4 @@
-# Hi, I'm Jen
+## Hi, I'm Jen
 
 In January 2026 I opened a terminal for the first time. This page is what happened next.
 
