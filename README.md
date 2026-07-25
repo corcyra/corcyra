@@ -1,6 +1,6 @@
 ## Hi, I'm Jen
 
-In January 2026 I opened a terminal for the first time. This page is what happened next.
+In January 2026 I opened a terminal for the first time, with the idea of connecting an LLM together with my personal notes, to create an active personal 'wiki' across different domains of my life, and to understand more of how agentic AI and LLMs function.  
 
 By day I lead mortgage operations. Nights and weekends I build the systems below - API integration, LLM orchestration, real-time data, automation. All built solo, all in production, all running right now.
 
