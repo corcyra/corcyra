@@ -6,7 +6,7 @@ By day I lead mortgage operations. Nights and weekends I build the systems below
 
 ## What I've built
 
-### Argus
+### Intelligence & News Dashboard
 *Self-hosted personal intelligence dashboard - 25 authoritative sources, LLM-filtered, with travel-aware alerting and persistent signal detection.*
 
 Argus is a self-hosted intelligence dashboard that pulls from 25 authoritative data sources (government feeds, scientific bodies, economic indicators, weather services), filters through LLM-powered relevance scoring, and surfaces what matters on a 2D map with categorized event feeds. A three-layer architecture separates source ingestion, relevance filtering, and personal impact assessment - so the signal is yours, not an algorithm's.
@@ -15,7 +15,7 @@ Features include Quick Pulse (on-demand region intelligence briefs), Watch Mode 
 
 **Built with:** Python (Flask), Leaflet.js, SQLite, Google BigQuery (GDELT), Anthropic API (Haiku), Google Gemini, Mapbox Studio
 
-### SCC - Social Command Center
+### Social Command Center
 *Multi-platform analytics dashboard for content creators - unified metrics, AI-powered insights, real-time intelligence.*
 
 SCC unifies analytics across 6 content platforms into a single dashboard with real-time data capture, follower tracking, content event timelines, and revenue aggregation. An always-on collector captures live events via EventSub and IRC, while scheduled sweeps pull cross-platform metrics into a normalized data store.
