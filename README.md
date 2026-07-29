@@ -15,7 +15,7 @@ Features include Quick Pulse (on-demand region intelligence briefs), Watch Mode 
 
 **Built with:** Python (Flask), Leaflet.js, SQLite, Google BigQuery (GDELT), Anthropic API (Haiku), Google Gemini, Mapbox Studio
 
-### Social Command Center
+### Social Media Command Center
 *Multi-platform analytics dashboard for content creators - unified metrics, AI-powered insights, real-time intelligence.*
 
 SCC unifies analytics across 6 content platforms into a single dashboard with real-time data capture, follower tracking, content event timelines, and revenue aggregation. An always-on collector captures live events via EventSub and IRC, while scheduled sweeps pull cross-platform metrics into a normalized data store.
